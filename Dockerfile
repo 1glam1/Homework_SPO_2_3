@@ -6,4 +6,4 @@ COPY . /usr/src/app/
 RUN pip install pytelegrambotapi
 
 CMD ["python","VladSPOBot.py"]
-
+virtualisation.docker.extraPackages = [pkgs.openssh]
