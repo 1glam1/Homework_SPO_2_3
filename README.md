@@ -28,6 +28,7 @@ CMD ["python","VladSPOBot.py"]
 ```
 Запускаем терминал, переходим в корневую папку проекта `cd (путь до корневой папки с проектом)`.
 Создаем образ, где 'telegram-bot' - это название: `docker build -t telegram-bot:1.0 ./`.
+
 Готовый образ в разделе 'images':
 ![image](https://github.com/user-attachments/assets/22490d11-3e4c-42dd-b24a-344c95c1181d)
 ## Создание и запуск контейнера
