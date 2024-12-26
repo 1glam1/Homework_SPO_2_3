@@ -43,9 +43,15 @@ CMD ["python","VladSPOBot.py"]
 Я пользовался Docker Desktop, поэтому контейнер могу запускать оттуда.
 Запущенный контейнер:
 ![image](https://github.com/user-attachments/assets/ca13c973-3ad8-4a9d-978d-7e33fb05f118)
+
 Работа бота в телеграме:
 ![image](https://github.com/user-attachments/assets/47eecbf7-23cc-4aa4-8b9d-8f9d2b415e07)
-## Указывать порт и localhost в моем случае не нужно.
+
+Логи в Docker Desktop:
+![image](https://github.com/user-attachments/assets/14dc9bde-2a60-4f08-80e9-c0e2aba428de)
+
+Также в Docker Desktop можно посмотреть процент использования CPU и RAM. 
+## Указывать порт и localhost в моем случае не нужно, так как страници, на которую ведет порт, не существует.
 ## Код телеграм-бота (VladSPOBot.py) представлен в репозитории.
 
 
