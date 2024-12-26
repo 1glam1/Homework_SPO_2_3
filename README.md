@@ -42,6 +42,7 @@ CMD ["python","VladSPOBot.py"]
 После запуска контейнера можем открыть бота в телеграмме `@VladSPOBot`.
 
 Я пользовался Docker Desktop, поэтому контейнер могу запускать оттуда.
+
 Запущенный контейнер:
 ![image](https://github.com/user-attachments/assets/ca13c973-3ad8-4a9d-978d-7e33fb05f118)
 
