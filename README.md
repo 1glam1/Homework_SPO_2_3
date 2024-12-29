@@ -57,7 +57,7 @@ CMD ["python","VladSPOBot.py"]
 ## Загрузка бота на хостинг
 В качестве хостинга был выбран Amvera Cloud.
 
-Настраиваем конфигурационный файл и устанавливаем build. В нашем случае build - это Dockerfile:
+Настраиваем конфигурационный файл и вписываем наш Dockerfile в поле build:
 ![image](https://github.com/user-attachments/assets/107c7f82-a920-4c9b-be85-88be3533b28d)
 
 Логи в Amvera Cloud:
