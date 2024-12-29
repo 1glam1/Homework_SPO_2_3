@@ -9,7 +9,7 @@ COPY . /bot
 RUN pip install pytelegrambotapi
 
 # Открываем порт, на котором будет работать приложение
-EXPOSE 4200
+EXPOSE 5000
 
 # Запускаем приложение
 CMD ["python","VladSPOBot.py"]
