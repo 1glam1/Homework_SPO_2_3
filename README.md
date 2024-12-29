@@ -63,6 +63,6 @@ CMD ["python","VladSPOBot.py"]
 Логи в Amvera Cloud:
 ![image](https://github.com/user-attachments/assets/7c4a2a60-0d93-436f-952e-90dfb6faac41)
 
-## Код телеграм-бота (VladSPOBot.py) представлен в репозитории.
+### Код телеграм-бота (VladSPOBot.py) представлен в репозитории.
 
 
