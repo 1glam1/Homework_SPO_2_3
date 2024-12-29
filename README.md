@@ -53,7 +53,16 @@ CMD ["python","VladSPOBot.py"]
 ![image](https://github.com/user-attachments/assets/14dc9bde-2a60-4f08-80e9-c0e2aba428de)
 
 Также в Docker Desktop можно посмотреть процент использования CPU и RAM. 
-## Указывать порт и localhost в моем случае не нужно, так как страницы, на которую ведет порт, не существует.
+### Указывать порт и localhost в моем случае не нужно, так как страницы, на которую ведет порт, не существует.
+## Загрузка бота на хостинг
+В качестве хостинга был выбран Amvera Cloud.
+
+Настраиваем конфигурационный файл и устанавливаем build. В нашем случае build - это Dockerfile:
+![image](https://github.com/user-attachments/assets/107c7f82-a920-4c9b-be85-88be3533b28d)
+
+Логи в Amvera Cloud:
+![image](https://github.com/user-attachments/assets/7c4a2a60-0d93-436f-952e-90dfb6faac41)
+
 ## Код телеграм-бота (VladSPOBot.py) представлен в репозитории.
 
 
